@@ -3,6 +3,15 @@
 
 > A starting point for building web applications with Polymer 1.0
 
+Created with yeoman:
+```
+mkdir polymer-project
+cd polymer-project
+npm install -g yo
+npm install -g generator-polymer
+yo polymer
+```
+
 ### Included out of the box:
 
 * [Polymer](http://polymer-project.org), [Paper](https://elements.polymer-project.org/browse?package=paper-elements), [Iron](https://elements.polymer-project.org/browse?package=iron-elements) and [Neon](https://elements.polymer-project.org/browse?package=neon-elements) elements
